@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minimart-system/static/css/main.4a901386.css",
+    "main.js": "/minimart-system/static/js/main.202aca41.js",
+    "index.html": "/minimart-system/index.html",
+    "main.4a901386.css.map": "/minimart-system/static/css/main.4a901386.css.map",
+    "main.202aca41.js.map": "/minimart-system/static/js/main.202aca41.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a901386.css",
+    "static/js/main.202aca41.js"
+  ]
+}
